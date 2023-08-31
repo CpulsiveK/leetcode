@@ -16,4 +16,3 @@ class Solution(object):
                 return [nums_exists[difference], i]
             else:
                 nums_exists[nums[i]] = i
-                        

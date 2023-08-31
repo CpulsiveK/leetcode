@@ -13,8 +13,3 @@ class Solution(object):
                 k += 1
                 
         return k
-                  
-            
-solution = Solution()
-res = solution.removeDuplicates([1,1,2,2,3,3,4,4,5,6])
-print(res)

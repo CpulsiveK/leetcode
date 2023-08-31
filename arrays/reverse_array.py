@@ -8,10 +8,3 @@ def reverseArray(array):
         end_index -= 1
     
     return array
-
-my_array = [7,8,9,6,7, 8, 9, 10]
-result = reverseArray(my_array)
-print(result)
-
-
-
